@@ -1,0 +1,11 @@
+## Copyright (c) 1993-2001 Microsoft Corp.
+#
+# This file has been automatically generated for use by Microsoft Internet
+# Connection Sharing. It contains the mappings of IP addresses to host names
+# for the home network. Please do not make changes to the HOSTS.ICS file.
+# Any changes may result in a loss of connectivity between machines on the
+# local network.
+#
+
+#192.168.137.1 DESKTOP-3I0PBCN.mshome.net # 2026 4 5 24 9 25 53 956
+#192.168.137.251 Mi10-2419772943deMi1.mshome.net # 2021 5 0 2 9 17 0 585
